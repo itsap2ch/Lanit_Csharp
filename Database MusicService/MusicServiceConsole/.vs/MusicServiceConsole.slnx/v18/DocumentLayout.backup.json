@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|d:\\docs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043D\u043E\u0440\u0431\u0438\u0442\\musicserviceconsole\\adorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|solutionrelative:adorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|d:\\docs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043D\u043E\u0440\u0431\u0438\u0442\\musicserviceconsole\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|solutionrelative:irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|d:\\docs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043D\u043E\u0440\u0431\u0438\u0442\\musicserviceconsole\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|solutionrelative:musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|d:\\docs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043D\u043E\u0440\u0431\u0438\u0442\\musicserviceconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|d:\\docs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043D\u043E\u0440\u0431\u0438\u0442\\musicserviceconsole\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|solutionrelative:efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|d:\\docs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043D\u043E\u0440\u0431\u0438\u0442\\musicserviceconsole\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|solutionrelative:artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|d:\\docs\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043D\u043E\u0440\u0431\u0438\u0442\\musicserviceconsole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE77386A-4D43-4029-8233-3741EC30E00B}|MusicServiceConsole.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFRepository.cs",
+              "DocumentMoniker": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\EFRepository.cs",
+              "RelativeDocumentMoniker": "EFRepository.cs",
+              "ToolTip": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\EFRepository.cs",
+              "RelativeToolTip": "EFRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:25:22.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdoRepository.cs",
+              "DocumentMoniker": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\AdoRepository.cs",
+              "RelativeDocumentMoniker": "AdoRepository.cs",
+              "ToolTip": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\AdoRepository.cs",
+              "RelativeToolTip": "AdoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:20:54.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\IRepository.cs",
+              "RelativeDocumentMoniker": "IRepository.cs",
+              "ToolTip": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\IRepository.cs",
+              "RelativeToolTip": "IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:20:30.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:10:25.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicContext.cs",
+              "DocumentMoniker": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\MusicContext.cs",
+              "RelativeDocumentMoniker": "MusicContext.cs",
+              "ToolTip": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\MusicContext.cs",
+              "RelativeToolTip": "MusicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T15:39:46.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-29T15:37:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\Artist.cs",
+              "RelativeDocumentMoniker": "Artist.cs",
+              "ToolTip": "D:\\Docs\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041D\u043E\u0440\u0431\u0438\u0442\\MusicServiceConsole\\Artist.cs",
+              "RelativeToolTip": "Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T15:33:36.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

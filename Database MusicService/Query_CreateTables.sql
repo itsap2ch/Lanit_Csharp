@@ -1,0 +1,87 @@
+CREATE TABLE Users
+(
+    Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+
+    Username NVARCHAR(50) NOT NULL,
+
+    Email NVARCHAR(100) NOT NULL,
+
+    BirthDate DATE,
+
+    IsPremium BIT NOT NULL
+);
+
+CREATE TABLE Artists
+(
+    Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+
+    Name NVARCHAR(100) NOT NULL,
+
+    Country NVARCHAR(50),
+
+    CreatedAt DATETIME NOT NULL
+);
+
+CREATE TABLE Albums
+(
+    Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+
+    ArtistId UNIQUEIDENTIFIER NOT NULL,
+
+    Title NVARCHAR(100) NOT NULL,
+
+    ReleaseDate DATE,
+
+    FOREIGN KEY (ArtistId)
+        REFERENCES Artists(Id)
+);
+
+CREATE TABLE Tracks
+(
+    Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+
+    AlbumId UNIQUEIDENTIFIER NOT NULL,
+
+    Title NVARCHAR(100) NOT NULL,
+
+    Duration DECIMAL(5,2),
+
+    IsExplicit BIT NOT NULL,
+
+    Genre NVARCHAR(50),
+
+    FOREIGN KEY (AlbumId)
+        REFERENCES Albums(Id)
+);
+
+CREATE TABLE Playlists
+(
+    Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+
+    UserId UNIQUEIDENTIFIER NOT NULL,
+
+    Name NVARCHAR(100) NOT NULL,
+
+    CreatedAt DATETIME NOT NULL,
+
+    FOREIGN KEY (UserId)
+        REFERENCES Users(Id)
+);
+
+CREATE TABLE PlaylistTracks
+(
+    PlaylistId UNIQUEIDENTIFIER NOT NULL,
+
+    TrackId UNIQUEIDENTIFIER NOT NULL,
+
+    PRIMARY KEY (PlaylistId, TrackId),
+
+    FOREIGN KEY (PlaylistId)
+        REFERENCES Playlists(Id),
+
+    FOREIGN KEY (TrackId)
+        REFERENCES Tracks(Id)
+);
+
+CREATE UNIQUE INDEX IX_Users_Email
+ON Users(Email);
